@@ -1,0 +1,22 @@
+Study Area: City of Boulder, Colorado, USA
+Approx. center: 40.015° N, 105.270° W
+Administrative context: Boulder County, Colorado, USA
+Project CRS: NAD83 / UTM zone 13N
+EPSG: 26913
+AOI file: 03_processed_data/boulder_aoi.gpkg
+
+Main Intelligence Question:
+How have terrain and water influenced the development and transportation structure of Boulder, Colorado?
+
+Supporting Questions:
+
+1. What are the main terrain features within and around Boulder?
+
+2. How does Boulder Creek influence the location and shape of development?
+
+3. Where are the main population and built-up areas concentrated?
+
+4. Where are the major road and transportation corridors located?
+
+5. How do terrain and water create constraints or corridors for movement and development?
+
