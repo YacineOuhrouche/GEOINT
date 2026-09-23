@@ -1,0 +1,38 @@
+AREA OF INTEREST
+
+Study Area:
+Las Vegas Valley, Nevada, USA
+
+Administrative Context:
+Clark County, Nevada, United States
+
+Study Topic:
+Urban–desert interface of the Las Vegas metropolitan area.
+
+AOI Description:
+The study area covers the central Las Vegas metropolitan area and surrounding urban–desert interface. It includes dense urban development, residential areas, major transportation infrastructure, Harry Reid International Airport, irrigated vegetation, and surrounding arid/bare land.
+
+AOI Type:
+Rectangular study area.
+
+AOI Extent:
+West:   650000 m
+East:   682000 m
+South: 3982000 m
+North: 4013000 m
+
+Coordinate Reference System:
+WGS 84 / UTM Zone 11N
+EPSG:32611
+
+Approximate AOI Dimensions:
+32 km east–west
+31 km north–south
+
+Approximate Area:
+~992 km²
+
+
+Reason for Selection:
+Las Vegas provides a clear contrast between built-up urban surfaces and surrounding desert land. The area also contains irrigated vegetation, transportation infrastructure, residential development, and other visually distinct land-cover types, making it well suited for Sentinel-2 multispectral imagery analysis.
+

@@ -1,0 +1,67 @@
+PROJECT 2 — SATELLITE IMAGERY & REMOTE SENSING
+IMAGERY METADATA
+
+Satellite:
+Sentinel-2C
+
+Instrument:
+MSI — MultiSpectral Instrument
+
+Product:
+Sentinel-2 Level-2A Surface Reflectance
+
+Acquisition Date:
+2026-08-22
+
+Sensing Time:
+18:19:21 UTC
+
+Orbit:
+R127
+
+Sentinel-2 Tiles:
+T11SPA
+T11SPV
+
+Product IDs:
+
+S2C_MSIL2A_20260822T181921_N0512_R127_T11SPA_20260822T232508.SAFE
+
+S2C_MSIL2A_20260822T181921_N0512_R127_T11SPV_20260822T232508.SAFE
+
+Reported Cloud Cover:
+11.116413%
+
+Cloud Assessment:
+The reported product cloud cover is approximately 11.1%. Visual inspection of the Las Vegas study area shows no significant cloud or cloud-shadow contamination 
+across the primary area of interest. 
+The acquisition is therefore considered suitable for the planned multispectral analysis.
+
+Spatial Resolution:
+10 m, 20 m and 60 m depending on band.
+
+Important Bands:
+
+B2  — Blue — 10 m
+B3  — Green — 10 m
+B4  — Red — 10 m
+B8  — Near Infrared — 10 m
+B11 — SWIR 1 — 20 m
+B12 — SWIR 2 — 20 m
+
+Primary Uses:
+
+B4/B3/B2 — Natural color
+B8/B4/B3 — Vegetation false color
+B12/B8/B4 — SWIR false color
+B8 + B4 — NDVI
+B11 + B8 — NDBI
+
+Source:
+Copernicus Data Space Ecosystem / Copernicus Browser
+
+Reason for Sensor Selection:
+Sentinel-2 MSI provides multispectral imagery with visible, near-infrared and shortwave-infrared bands suitable for distinguishing vegetation, urban surfaces and bare desert land. Its 10–20 m spatial resolution is appropriate for analysis of the Las Vegas metropolitan area.
+
+Reason for Acquisition Selection:
+The 2026-08-22 acquisition provides clear coverage of the study area with minimal visible cloud interference. It provides suitable imagery for natural-color interpretation, false-color composites, spectral indices and spectral-response analysis.
