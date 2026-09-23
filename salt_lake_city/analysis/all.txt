@@ -1,0 +1,541 @@
+ACCESSIBILITY OBSERVATIONS
+
+1. DOWNTOWN ACCESSIBILITY BY DISTANCE
+
+Observation:
+The areas closest to downtown Salt Lake City fall within the 0–5 km and 5–10 km accessibility zones, while the southern and western parts of Salt Lake County are progressively farther from the urban core.
+
+Evidence:
+Downtown accessibility rings, roads, municipalities, population density, and OpenStreetMap.
+
+Geographic Relationship:
+Downtown accessibility is highest in the central Salt Lake Valley and decreases toward the outer valley and mountainous edges of the county.
+
+Model Assumption:
+Accessibility is represented using straight-line distance from downtown rather than actual travel time.
+
+Limitation:
+The model does not account for road-network structure, congestion, terrain barriers, travel speed, or route availability.
+
+Confidence:
+ModerateCHOKEPOINTS, CORRIDORS & BARRIER CROSSINGS
+
+1. I-15 / CENTRAL SALT LAKE VALLEY CORRIDOR
+
+Observation:
+Interstate 15 forms the dominant north–south transportation corridor through Salt Lake County and passes through the central urbanized valley.
+
+Geographic Context:
+The corridor occupies relatively flat terrain between the Wasatch Range and Oquirrh Mountains.
+
+Why Movement Concentrates Here:
+The broad valley floor provides the easiest continuous north–south route through the county while the surrounding mountain ranges strongly constrain alternative regional corridors.
+
+Alternatives:
+Parallel arterial roads and local road networks provide some redundancy, but major regional movement remains concentrated in the central valley corridor.
+
+Evidence:
+Road hierarchy, DEM, slope, population density, land use, and OpenStreetMap.
+
+Confidence:
+High
+
+2. PARLEYS CANYON / I-80 CORRIDOR
+
+Observation:
+Interstate 80 leaves the Salt Lake Valley through Parleys Canyon, creating one of the main east–west transportation corridors through the Wasatch Range.
+
+Geographic Context:
+The canyon cuts through steep and rugged mountain terrain east of Salt Lake City.
+
+Why Movement Concentrates Here:
+The canyon provides a comparatively accessible natural passage through terrain that is otherwise difficult to cross.
+
+Alternatives:
+Other mountain routes exist, but they are fewer, less direct, or more constrained than the Parleys Canyon corridor.
+
+Evidence:
+Roads, DEM, slope, hillshade, ruggedness, and OpenStreetMap.
+
+Confidence:
+High
+
+3. POINT OF THE MOUNTAIN / SOUTHERN VALLEY GATEWAY
+
+Observation:
+The southern end of the Salt Lake Valley narrows around the Point of the Mountain area, where major transportation routes pass between surrounding elevated terrain.
+
+Geographic Context:
+The corridor lies between the southern Wasatch foothills and nearby upland terrain, creating a narrower passage than the central valley.
+
+Why Movement Concentrates Here:
+North–south regional movement is funneled through this relatively narrow low-gradient corridor, including Interstate 15.
+
+Alternatives:
+Local roads provide some redundancy, but large-scale regional movement remains concentrated in the same general gateway.
+
+Evidence:
+Roads, DEM, slope, hillshade, population density, and OpenStreetMap.
+
+Confidence:
+High
+
+4. AIRPORT / WESTERN LOGISTICS GATEWAY
+
+Observation:
+Salt Lake City International Airport and nearby industrial/logistics areas form a major transportation and infrastructure concentration on the western side of the Salt Lake Valley.
+
+Geographic Context:
+The area occupies relatively flat terrain with direct access to major highways and rail infrastructure.
+
+Why Movement Concentrates Here:
+Airport access, highway connectivity, rail access, and available flat land combine to concentrate logistics and freight-related movement in this part of the valley.
+
+Alternatives:
+Other industrial areas exist elsewhere in the county, but few combine airport, highway, rail, and large flat parcels as strongly.
+
+Evidence:
+Airport, roads, railroads, land use, DEM, and OpenStreetMap.
+
+Confidence:
+HighINFRASTRUCTURE GEOGRAPHY OBSERVATIONS
+
+1. WATER SERVICE COVERAGE ↔ URBAN DEVELOPMENT
+
+Observation:
+Public culinary water service areas are concentrated across the developed Salt Lake Valley and generally correspond with the main urbanized and populated areas.
+
+Evidence:
+Water-service, population-density, land-use, municipal-boundary, and road layers.
+
+Geographic Relationship:
+Water-service infrastructure follows the main settlement pattern of the valley and becomes less extensive toward steep mountain terrain and sparsely developed peripheral areas.
+
+Confidence:
+High
+
+2. INDUSTRIAL / LOGISTICS CLUSTERING
+
+Observation:
+Industrial and logistics land uses are concentrated mainly in the flatter western and northwestern parts of the Salt Lake Valley, especially near major highways, rail corridors, and Salt Lake City International Airport.
+
+Evidence:
+Land-use, roads, railroads, airport, and OpenStreetMap layers.
+
+Geographic Relationship:
+Industrial activity clusters where flat terrain, large parcels, and multimodal transportation access coincide.
+
+Confidence:
+High
+
+3. INTERMODAL CONNECTIVITY
+
+Observation:
+The strongest infrastructure concentration occurs where major highways, rail corridors, airport access, and industrial land uses overlap in the Salt Lake Valley.
+
+Evidence:
+Roads, railroads, airport, land-use, and OpenStreetMap layers.
+
+Geographic Relationship:
+Multimodal access strengthens the western and northwestern Salt Lake Valley as a major logistics and infrastructure zone.
+
+Confidence:
+HighLANDFORM OBSERVATIONS
+
+1. WASATCH RANGE
+
+Observation:
+A high, steep, and rugged mountain belt forms the eastern boundary of the Salt Lake Valley. Elevation and slope increase sharply east of the main urbanized area.
+
+Visible Evidence:
+DEM, hillshade, slope, and ruggedness layers.
+
+Initial Geographic Significance:
+The mountain terrain strongly limits eastward urban expansion and concentrates development on the flatter valley floor.
+
+Confidence:
+High
+
+2. SALT LAKE VALLEY
+
+Observation:
+A broad, relatively flat valley occupies the central part of Salt Lake County between the Wasatch Range to the east and the Oquirrh Mountains to the west.
+
+Visible Evidence:
+DEM, hillshade, slope, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+Most dense urban development, transportation infrastructure, and major settlements are concentrated on the flatter valley floor rather than the surrounding mountain terrain.
+
+Confidence:
+High
+
+3. OQUIRRH MOUNTAINS
+
+Observation:
+A second rugged mountain range forms the western side of the Salt Lake Valley. Elevation and terrain roughness increase sharply west of the main urbanized corridor.
+
+Visible Evidence:
+DEM, hillshade, slope, and ruggedness layers.
+
+Initial Geographic Significance:
+The Oquirrh Mountains constrain westward expansion and help confine the main urbanized area to the valley between the Oquirrh and Wasatch ranges.
+
+Confidence:
+High
+
+4. JORDAN RIVER / CENTRAL DRAINAGE CORRIDOR
+
+Observation:
+The Jordan River runs through the central Salt Lake Valley and occupies a comparatively low-elevation corridor between the surrounding mountain ranges.
+
+Visible Evidence:
+Major streams, DEM, hillshade, slope, lakes, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+The Jordan River helps organize the valley's drainage system and provides a major north–south physical corridor through the urbanized area. Development generally concentrates on the broader valley floor around it rather than in the steep mountain terrain.
+
+Confidence:
+High
+
+5. GREAT SALT LAKE / WESTERN BASIN EDGE
+
+Observation:
+The northwestern part of Salt Lake County transitions into the very low-relief margin of the Great Salt Lake basin, with much flatter terrain than the surrounding mountain ranges.
+
+Visible Evidence:
+DEM, hillshade, slope, lakes, flooding, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+The Great Salt Lake and its low-lying margins constrain development, influence drainage, and create a distinct western edge to the urbanized area. These areas may also be more exposed to lake-level and flooding-related hazards.
+
+Confidence:
+High
+
+6. WASATCH CANYONS / MOUNTAIN PASS CORRIDORS
+
+Observation:
+Several narrow canyons cut eastward through the Wasatch Range from the Salt Lake Valley, including major corridors such as Parleys Canyon, Big Cottonwood Canyon, and Little Cottonwood Canyon.
+
+Visible Evidence:
+Hillshade, DEM, slope, ruggedness, streams, roads, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+These canyons provide limited natural corridors through otherwise steep mountain terrain. Transportation and access are therefore concentrated into a small number of routes rather than being distributed evenly across the mountain front.
+
+Confidence:
+High
+
+7. WASATCH FOOTHILL BENCHES / ALLUVIAL FANS
+
+Observation:
+A transitional belt of gently to moderately sloping terrain occurs between the flat Salt Lake Valley floor and the steep Wasatch Mountains.
+
+Visible Evidence:
+DEM, slope, hillshade, ruggedness, roads, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+These foothill surfaces provide buildable land above the valley floor while remaining much less steep than the mountains. Urban development therefore extends partway up the eastern valley margin before becoming increasingly limited by steep terrain.
+
+Confidence:
+HighLANDFORM OBSERVATIONS
+
+1. WASATCH RANGE
+
+Observation:
+A high, steep, and rugged mountain belt forms the eastern boundary of the Salt Lake Valley. Elevation and slope increase sharply east of the main urbanized area.
+
+Visible Evidence:
+DEM, hillshade, slope, and ruggedness layers.
+
+Initial Geographic Significance:
+The mountain terrain strongly limits eastward urban expansion and concentrates development on the flatter valley floor.
+
+Confidence:
+High
+
+2. SALT LAKE VALLEY
+
+Observation:
+A broad, relatively flat valley occupies the central part of Salt Lake County between the Wasatch Range to the east and the Oquirrh Mountains to the west.
+
+Visible Evidence:
+DEM, hillshade, slope, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+Most dense urban development, transportation infrastructure, and major settlements are concentrated on the flatter valley floor rather than the surrounding mountain terrain.
+
+Confidence:
+High
+
+3. OQUIRRH MOUNTAINS
+
+Observation:
+A second rugged mountain range forms the western side of the Salt Lake Valley. Elevation and terrain roughness increase sharply west of the main urbanized corridor.
+
+Visible Evidence:
+DEM, hillshade, slope, and ruggedness layers.
+
+Initial Geographic Significance:
+The Oquirrh Mountains constrain westward expansion and help confine the main urbanized area to the valley between the Oquirrh and Wasatch ranges.
+
+Confidence:
+High
+
+4. JORDAN RIVER / CENTRAL DRAINAGE CORRIDOR
+
+Observation:
+The Jordan River runs through the central Salt Lake Valley and occupies a comparatively low-elevation corridor between the surrounding mountain ranges.
+
+Visible Evidence:
+Major streams, DEM, hillshade, slope, lakes, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+The Jordan River helps organize the valley's drainage system and provides a major north–south physical corridor through the urbanized area. Development generally concentrates on the broader valley floor around it rather than in the steep mountain terrain.
+
+Confidence:
+High
+
+5. GREAT SALT LAKE / WESTERN BASIN EDGE
+
+Observation:
+The northwestern part of Salt Lake County transitions into the very low-relief margin of the Great Salt Lake basin, with much flatter terrain than the surrounding mountain ranges.
+
+Visible Evidence:
+DEM, hillshade, slope, lakes, flooding, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+The Great Salt Lake and its low-lying margins constrain development, influence drainage, and create a distinct western edge to the urbanized area. These areas may also be more exposed to lake-level and flooding-related hazards.
+
+Confidence:
+High
+
+6. WASATCH CANYONS / MOUNTAIN PASS CORRIDORS
+
+Observation:
+Several narrow canyons cut eastward through the Wasatch Range from the Salt Lake Valley, including major corridors such as Parleys Canyon, Big Cottonwood Canyon, and Little Cottonwood Canyon.
+
+Visible Evidence:
+Hillshade, DEM, slope, ruggedness, streams, roads, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+These canyons provide limited natural corridors through otherwise steep mountain terrain. Transportation and access are therefore concentrated into a small number of routes rather than being distributed evenly across the mountain front.
+
+Confidence:
+High
+
+7. WASATCH FOOTHILL BENCHES / ALLUVIAL FANS
+
+Observation:
+A transitional belt of gently to moderately sloping terrain occurs between the flat Salt Lake Valley floor and the steep Wasatch Mountains.
+
+Visible Evidence:
+DEM, slope, hillshade, ruggedness, roads, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+These foothill surfaces provide buildable land above the valley floor while remaining much less steep than the mountains. Urban development therefore extends partway up the eastern valley margin before becoming increasingly limited by steep terrain.
+
+Confidence:
+HighPOPULATION & SETTLEMENT OBSERVATIONS
+
+1. POPULATION CONCENTRATION
+
+Observation:
+Population density is concentrated primarily on the Salt Lake Valley floor, especially across the continuous urban corridor around Salt Lake City and its surrounding municipalities.
+
+Evidence:
+2020 census block-group population density layer.
+
+Geographic Relationship:
+Population density decreases sharply toward the Wasatch Range, Oquirrh Mountains, and other rugged peripheral terrain.
+
+Confidence:
+High
+
+2. POPULATION ↔ TERRAIN
+
+Observation:
+The highest population densities are concentrated on the relatively flat Salt Lake Valley floor, while population density decreases substantially on the steeper slopes of the Wasatch Range and Oquirrh Mountains.
+
+Evidence:
+Population-density layer combined with slope and DEM layers.
+
+Geographic Relationship:
+Flatter terrain supports denser urban development, while steep and rugged terrain strongly limits settlement.
+
+Confidence:
+High
+
+3. POPULATION ↔ TRANSPORTATION
+
+Observation:
+Higher population densities are concentrated along the main transportation corridor running through the Salt Lake Valley, while lower-density areas are more common toward the mountainous edges of the county.
+
+Evidence:
+Population-density, roads, and railroad layers.
+
+Geographic Relationship:
+Transportation infrastructure is concentrated in the same relatively flat valley corridor where most population and urban development are located.
+
+Confidence:
+High
+
+
+4. POPULATION ↔ WATER
+
+Observation:
+The Jordan River passes through the developed Salt Lake Valley, while population density generally decreases toward the Great Salt Lake shoreline and the steeper mountain drainage areas.
+
+Evidence:
+Population-density, major-streams, lakes, DEM, and OpenStreetMap layers.
+
+Geographic Relationship:
+Water features intersect the urban valley, but the most densely populated areas are concentrated on the broader buildable valley floor rather than directly along lake margins or steep drainage terrain.
+
+Confidence:
+Moderate to HighTRANSPORTATION GEOGRAPHY OBSERVATIONS
+
+1. MAIN NORTH–SOUTH TRANSPORTATION CORRIDOR
+
+Observation:
+The highest-class roads form a dominant north–south corridor through the Salt Lake Valley, centered largely on Interstate 15 and associated major arterial routes.
+
+Evidence:
+Road functional-class layer, railroads, population density, and OpenStreetMap.
+
+Geographic Relationship:
+The main regional transportation network follows the relatively flat valley floor between the Wasatch Range and Oquirrh Mountains rather than crossing the steep surrounding terrain.
+
+Confidence:
+High
+
+2. RAIL CORRIDORS ↔ VALLEY TERRAIN
+
+Observation:
+Major rail lines are concentrated on the flatter Salt Lake Valley floor and generally run parallel to the main north–south urban and transportation corridor.
+
+Evidence:
+Railroad, road, DEM, slope, and population-density layers.
+
+Geographic Relationship:
+Rail infrastructure avoids the steep surrounding mountain terrain and follows the broad low-gradient valley corridor where urban and industrial development is concentrated.
+
+Confidence:
+High
+
+3. AIRPORT ↔ TRANSPORTATION ACCESS
+
+Observation:
+Salt Lake City International Airport is located on the relatively flat northwestern side of the Salt Lake Valley and is closely connected to the regional road network.
+
+Evidence:
+Airport, roads, railroads, land-use, and OpenStreetMap layers.
+
+Geographic Relationship:
+The airport occupies flat, open terrain with strong access to the main urban transportation corridor and nearby industrial / logistics areas.
+
+Confidence:
+High
+
+4. MOUNTAIN / CANYON CONSTRAINTS ON MOVEMENT
+
+Observation:
+East–west transportation across the Wasatch Range is concentrated into a small number of canyon corridors rather than being distributed evenly across the mountain front.
+
+Evidence:
+Roads, DEM, slope, hillshade, ruggedness, and OpenStreetMap layers.
+
+Geographic Relationship:
+Steep mountain terrain limits route options and channels movement through natural corridors such as Parleys Canyon and the Cottonwood canyon systems.
+
+Confidence:
+High
+
+NETWORK ANALYSIS OBSERVATIONS
+
+1. ROAD NETWORK LENGTH
+
+Observation:
+The Salt Lake County roads dataset contains approximately 8,266 km of mapped road centerlines.
+
+Evidence:
+Sum of the length_km field in Salt_Lake_County_Roads.
+
+Confidence:
+High
+
+2. AIRPORT → DOWNTOWN SHORTEST PATH
+
+Observation:
+The modeled shortest road-network path between Salt Lake City International Airport and downtown Salt Lake City is approximately 13.75 km.
+
+Evidence:
+QGIS Shortest Path (Point to Point) analysis using the Salt Lake County road network.
+
+Travel Cost:
+13,746.76 m
+
+Interpretation:
+The airport has relatively direct road-network access to the central urban core.
+
+Limitation:
+The result minimizes distance only. It does not account for traffic, travel time, road closures, or real-time conditions.
+
+Confidence:
+HighURBAN MORPHOLOGY & LAND-USE OBSERVATIONS
+
+1. URBAN DEVELOPMENT PATTERN
+
+Observation:
+Urban land use is concentrated across the Salt Lake Valley, forming a broad continuous developed corridor around Salt Lake City and surrounding municipalities.
+
+Evidence:
+Land-use, municipal-boundary, road, and OpenStreetMap layers.
+
+Geographic Relationship:
+Development is concentrated on the flatter valley floor, while mountainous terrain and large open areas form clear limits to the urbanized region.
+
+Confidence:
+Highs
+
+2. URBAN EDGE ↔ TERRAIN CONSTRAINTS
+
+Observation:
+The urbanized area expands broadly across the Salt Lake Valley but becomes much less continuous near the Wasatch Range and Oquirrh Mountains.
+
+Evidence:
+Land-use, slope, hillshade, DEM, and municipal-boundary layers.
+
+Geographic Relationship:
+Steeper and more rugged terrain creates a strong physical limit to outward urban expansion, producing a clearer urban edge along the mountain fronts.
+
+Confidence:
+High
+
+3. URBAN FORM ↔ TRANSPORTATION
+
+Observation:
+Urban development is strongly aligned with the main north–south transportation corridor through the Salt Lake Valley, where major roads and rail lines pass through the most continuously developed areas.
+
+Evidence:
+Land-use, roads, railroads, population-density, and municipal-boundary layers.
+
+Geographic Relationship:
+Transportation infrastructure and urban development are concentrated in the same broad valley corridor, while steep mountain terrain limits alternative large-scale development patterns.
+
+Confidence:
+High
+
+4. INDUSTRIAL / LOGISTICS LAND USE
+
+Observation:
+Industrial and logistics land uses are concentrated mainly in the flatter western and northwestern parts of the Salt Lake Valley, especially near major road, rail, and airport infrastructure.
+
+Evidence:
+Land-use, roads, railroads, airport, and OpenStreetMap layers.
+
+Geographic Relationship:
+Industrial activity tends to cluster where large parcels, flat terrain, and strong transportation access coincide.
+
+Confidence:
+Moderate to High

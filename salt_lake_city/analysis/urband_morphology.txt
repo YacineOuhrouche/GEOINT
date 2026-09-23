@@ -1,0 +1,57 @@
+URBAN MORPHOLOGY & LAND-USE OBSERVATIONS
+
+1. URBAN DEVELOPMENT PATTERN
+
+Observation:
+Urban land use is concentrated across the Salt Lake Valley, forming a broad continuous developed corridor around Salt Lake City and surrounding municipalities.
+
+Evidence:
+Land-use, municipal-boundary, road, and OpenStreetMap layers.
+
+Geographic Relationship:
+Development is concentrated on the flatter valley floor, while mountainous terrain and large open areas form clear limits to the urbanized region.
+
+Confidence:
+Highs
+
+2. URBAN EDGE ↔ TERRAIN CONSTRAINTS
+
+Observation:
+The urbanized area expands broadly across the Salt Lake Valley but becomes much less continuous near the Wasatch Range and Oquirrh Mountains.
+
+Evidence:
+Land-use, slope, hillshade, DEM, and municipal-boundary layers.
+
+Geographic Relationship:
+Steeper and more rugged terrain creates a strong physical limit to outward urban expansion, producing a clearer urban edge along the mountain fronts.
+
+Confidence:
+High
+
+3. URBAN FORM ↔ TRANSPORTATION
+
+Observation:
+Urban development is strongly aligned with the main north–south transportation corridor through the Salt Lake Valley, where major roads and rail lines pass through the most continuously developed areas.
+
+Evidence:
+Land-use, roads, railroads, population-density, and municipal-boundary layers.
+
+Geographic Relationship:
+Transportation infrastructure and urban development are concentrated in the same broad valley corridor, while steep mountain terrain limits alternative large-scale development patterns.
+
+Confidence:
+High
+
+4. INDUSTRIAL / LOGISTICS LAND USE
+
+Observation:
+Industrial and logistics land uses are concentrated mainly in the flatter western and northwestern parts of the Salt Lake Valley, especially near major road, rail, and airport infrastructure.
+
+Evidence:
+Land-use, roads, railroads, airport, and OpenStreetMap layers.
+
+Geographic Relationship:
+Industrial activity tends to cluster where large parcels, flat terrain, and strong transportation access coincide.
+
+Confidence:
+Moderate to High

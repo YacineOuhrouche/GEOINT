@@ -1,0 +1,58 @@
+POPULATION & SETTLEMENT OBSERVATIONS
+
+1. POPULATION CONCENTRATION
+
+Observation:
+Population density is concentrated primarily on the Salt Lake Valley floor, especially across the continuous urban corridor around Salt Lake City and its surrounding municipalities.
+
+Evidence:
+2020 census block-group population density layer.
+
+Geographic Relationship:
+Population density decreases sharply toward the Wasatch Range, Oquirrh Mountains, and other rugged peripheral terrain.
+
+Confidence:
+High
+
+2. POPULATION ↔ TERRAIN
+
+Observation:
+The highest population densities are concentrated on the relatively flat Salt Lake Valley floor, while population density decreases substantially on the steeper slopes of the Wasatch Range and Oquirrh Mountains.
+
+Evidence:
+Population-density layer combined with slope and DEM layers.
+
+Geographic Relationship:
+Flatter terrain supports denser urban development, while steep and rugged terrain strongly limits settlement.
+
+Confidence:
+High
+
+3. POPULATION ↔ TRANSPORTATION
+
+Observation:
+Higher population densities are concentrated along the main transportation corridor running through the Salt Lake Valley, while lower-density areas are more common toward the mountainous edges of the county.
+
+Evidence:
+Population-density, roads, and railroad layers.
+
+Geographic Relationship:
+Transportation infrastructure is concentrated in the same relatively flat valley corridor where most population and urban development are located.
+
+Confidence:
+High
+
+
+4. POPULATION ↔ WATER
+
+Observation:
+The Jordan River passes through the developed Salt Lake Valley, while population density generally decreases toward the Great Salt Lake shoreline and the steeper mountain drainage areas.
+
+Evidence:
+Population-density, major-streams, lakes, DEM, and OpenStreetMap layers.
+
+Geographic Relationship:
+Water features intersect the urban valley, but the most densely populated areas are concentrated on the broader buildable valley floor rather than directly along lake margins or steep drainage terrain.
+
+Confidence:
+Moderate to High

@@ -1,0 +1,45 @@
+PROJECT:
+Salt Lake County Regional Geographic Intelligence Analysis
+
+
+MAIN INTELLIGENCE QUESTION
+
+Why did Salt Lake City and the surrounding Salt Lake County region develop
+where they did, and how do terrain, hydrology, population, transportation,
+and infrastructure explain the region's present spatial structure?
+
+
+SUPPORTING QUESTIONS
+
+1. What terrain features most strongly constrain development in Salt Lake County?
+
+2. How do elevation and slope vary between the valley floor and surrounding mountains?
+
+3. How have the Great Salt Lake, Jordan River, and mountain drainage systems influenced settlement and development?
+
+4. Where is population most concentrated, and how does this relate to terrain and elevation?
+
+5. Which major transportation corridors dominate regional connectivity?
+
+6. How do highways and rail corridors relate to the valley floor, mountain barriers, and canyon corridors?
+
+7. Where are the major geographic barrier crossings and constrained transportation corridors?
+
+8. Where are industrial and logistics activities concentrated, and how do they relate to highways, rail, and Salt Lake City International Airport?
+
+9. Which parts of the county are most accessible through the transportation network?
+
+10. How have the Wasatch Range, Oquirrh Mountains, Great Salt Lake, and valley geography shaped the overall urban form of the region?
+
+
+PROJECT SCOPE
+
+The project will analyze the interaction between physical geography
+and human systems using terrain, hydrology, population, land use,
+transportation, infrastructure, accessibility, and network data.
+
+The project will remain a static geographic-intelligence analysis.
+
+Formal multi-date change detection, advanced remote sensing,
+OSINT investigation, database development, and web-dashboard development
+are outside the scope of this project.

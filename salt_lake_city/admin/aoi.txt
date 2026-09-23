@@ -1,0 +1,38 @@
+AREA OF INTEREST
+
+Study Area:
+Salt Lake City and Salt Lake County, Utah, USA
+
+Administrative Context:
+Salt Lake County, Utah, United States
+
+Study Topic:
+Interaction between mountain terrain, hydrology, settlement, transportation, and infrastructure in the Salt Lake Valley.
+
+AOI Description:
+The study area covers the full Salt Lake County administrative boundary, including Salt Lake City and surrounding municipalities. It includes the Salt Lake Valley, the Wasatch Range to the east, the Oquirrh Mountains to the west, portions of the Great Salt Lake, the Jordan River, mountain canyons, dense urban development, suburban areas, major highways, rail corridors, industrial and logistics districts, Salt Lake City International Airport, and surrounding mountainous terrain.
+
+AOI Type:
+Administrative county boundary.
+
+AOI Extent:
+West:   ~393000 m
+East:   ~453500 m
+South: ~4474000 m
+North: ~4531000 m
+
+Coordinate Reference System:
+NAD83 / UTM Zone 12N
+EPSG:26912
+
+Approximate AOI Dimensions:
+60 km east–west
+57 km north–south
+
+Approximate Area:
+~2,091 km² including land and water
+
+Reason for Selection:
+Salt Lake County provides a strong contrast between mountainous terrain and the developed valley floor. The Wasatch Range, Oquirrh Mountains, Great Salt Lake, Jordan River, major transportation corridors, airport, industrial areas, and concentrated urban development make the region well suited for analyzing how terrain, hydrology, transportation, population, and infrastructure interact.
+
+Utah also provides extensive standardized statewide GIS datasets through the Utah Geospatial Resource Center, reducing data-acquisition and coordinate-system compatibility problems.

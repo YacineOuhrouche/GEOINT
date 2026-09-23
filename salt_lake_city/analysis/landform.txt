@@ -1,0 +1,99 @@
+LANDFORM OBSERVATIONS
+
+1. WASATCH RANGE
+
+Observation:
+A high, steep, and rugged mountain belt forms the eastern boundary of the Salt Lake Valley. Elevation and slope increase sharply east of the main urbanized area.
+
+Visible Evidence:
+DEM, hillshade, slope, and ruggedness layers.
+
+Initial Geographic Significance:
+The mountain terrain strongly limits eastward urban expansion and concentrates development on the flatter valley floor.
+
+Confidence:
+High
+
+2. SALT LAKE VALLEY
+
+Observation:
+A broad, relatively flat valley occupies the central part of Salt Lake County between the Wasatch Range to the east and the Oquirrh Mountains to the west.
+
+Visible Evidence:
+DEM, hillshade, slope, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+Most dense urban development, transportation infrastructure, and major settlements are concentrated on the flatter valley floor rather than the surrounding mountain terrain.
+
+Confidence:
+High
+
+3. OQUIRRH MOUNTAINS
+
+Observation:
+A second rugged mountain range forms the western side of the Salt Lake Valley. Elevation and terrain roughness increase sharply west of the main urbanized corridor.
+
+Visible Evidence:
+DEM, hillshade, slope, and ruggedness layers.
+
+Initial Geographic Significance:
+The Oquirrh Mountains constrain westward expansion and help confine the main urbanized area to the valley between the Oquirrh and Wasatch ranges.
+
+Confidence:
+High
+
+4. JORDAN RIVER / CENTRAL DRAINAGE CORRIDOR
+
+Observation:
+The Jordan River runs through the central Salt Lake Valley and occupies a comparatively low-elevation corridor between the surrounding mountain ranges.
+
+Visible Evidence:
+Major streams, DEM, hillshade, slope, lakes, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+The Jordan River helps organize the valley's drainage system and provides a major north–south physical corridor through the urbanized area. Development generally concentrates on the broader valley floor around it rather than in the steep mountain terrain.
+
+Confidence:
+High
+
+5. GREAT SALT LAKE / WESTERN BASIN EDGE
+
+Observation:
+The northwestern part of Salt Lake County transitions into the very low-relief margin of the Great Salt Lake basin, with much flatter terrain than the surrounding mountain ranges.
+
+Visible Evidence:
+DEM, hillshade, slope, lakes, flooding, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+The Great Salt Lake and its low-lying margins constrain development, influence drainage, and create a distinct western edge to the urbanized area. These areas may also be more exposed to lake-level and flooding-related hazards.
+
+Confidence:
+High
+
+6. WASATCH CANYONS / MOUNTAIN PASS CORRIDORS
+
+Observation:
+Several narrow canyons cut eastward through the Wasatch Range from the Salt Lake Valley, including major corridors such as Parleys Canyon, Big Cottonwood Canyon, and Little Cottonwood Canyon.
+
+Visible Evidence:
+Hillshade, DEM, slope, ruggedness, streams, roads, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+These canyons provide limited natural corridors through otherwise steep mountain terrain. Transportation and access are therefore concentrated into a small number of routes rather than being distributed evenly across the mountain front.
+
+Confidence:
+High
+
+7. WASATCH FOOTHILL BENCHES / ALLUVIAL FANS
+
+Observation:
+A transitional belt of gently to moderately sloping terrain occurs between the flat Salt Lake Valley floor and the steep Wasatch Mountains.
+
+Visible Evidence:
+DEM, slope, hillshade, ruggedness, roads, and OpenStreetMap layers.
+
+Initial Geographic Significance:
+These foothill surfaces provide buildable land above the valley floor while remaining much less steep than the mountains. Urban development therefore extends partway up the eastern valley margin before becoming increasingly limited by steep terrain.
+
+Confidence:
+High

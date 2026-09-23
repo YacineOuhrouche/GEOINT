@@ -1,0 +1,45 @@
+INFRASTRUCTURE GEOGRAPHY OBSERVATIONS
+
+1. WATER SERVICE COVERAGE ↔ URBAN DEVELOPMENT
+
+Observation:
+Public culinary water service areas are concentrated across the developed Salt Lake Valley and generally 
+correspond with the main urbanized and populated areas.
+
+Evidence:
+Water-service, population-density, land-use, municipal-boundary, and road layers.
+
+Geographic Relationship:
+Water-service infrastructure follows the main settlement pattern of the valley and becomes less extensive toward steep mountain terrain and sparsely developed peripheral areas.
+
+Confidence:
+High
+
+2. INDUSTRIAL / LOGISTICS CLUSTERING
+
+Observation:
+Industrial and logistics land uses are concentrated mainly in the flatter western and northwestern parts of the Salt Lake Valley, 
+especially near major highways, rail corridors, and Salt Lake City International Airport.
+
+Evidence:
+Land-use, roads, railroads, airport, and OpenStreetMap layers.
+
+Geographic Relationship:
+Industrial activity clusters where flat terrain, large parcels, and multimodal transportation access coincide.
+
+Confidence:
+High
+
+3. INTERMODAL CONNECTIVITY
+
+Observation:
+The strongest infrastructure concentration occurs where major highways, rail corridors, airport access, and industrial land uses overlap in the Salt Lake Valley.
+
+Evidence:
+Roads, railroads, airport, land-use, and OpenStreetMap layers.
+
+Geographic Relationship:
+Multimodal access strengthens the western and northwestern Salt Lake Valley as a major logistics and infrastructure zone.
+
+Confidence:
+High

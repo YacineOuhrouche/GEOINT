@@ -1,0 +1,90 @@
+TRANSPORTATION GEOGRAPHY OBSERVATIONS
+
+1. MAIN NORTH–SOUTH TRANSPORTATION CORRIDOR
+
+Observation:
+The highest-class roads form a dominant north–south corridor through the Salt Lake Valley, centered largely on Interstate 15 and associated major arterial routes.
+
+Evidence:
+Road functional-class layer, railroads, population density, and OpenStreetMap.
+
+Geographic Relationship:
+The main regional transportation network follows the relatively flat valley floor between the Wasatch Range and Oquirrh Mountains rather than crossing the steep surrounding terrain.
+
+Confidence:
+High
+
+2. RAIL CORRIDORS ↔ VALLEY TERRAIN
+
+Observation:
+Major rail lines are concentrated on the flatter Salt Lake Valley floor and generally run parallel to the main north–south urban and transportation corridor.
+
+Evidence:
+Railroad, road, DEM, slope, and population-density layers.
+
+Geographic Relationship:
+Rail infrastructure avoids the steep surrounding mountain terrain and follows the broad low-gradient valley corridor where urban and industrial development is concentrated.
+
+Confidence:
+High
+
+3. AIRPORT ↔ TRANSPORTATION ACCESS
+
+Observation:
+Salt Lake City International Airport is located on the relatively flat northwestern side of the Salt Lake Valley and is closely connected to the regional road network.
+
+Evidence:
+Airport, roads, railroads, land-use, and OpenStreetMap layers.
+
+Geographic Relationship:
+The airport occupies flat, open terrain with strong access to the main urban transportation corridor and nearby industrial / logistics areas.
+
+Confidence:
+High
+
+4. MOUNTAIN / CANYON CONSTRAINTS ON MOVEMENT
+
+Observation:
+East–west transportation across the Wasatch Range is concentrated into a small number of canyon corridors rather than being distributed evenly across the mountain front.
+
+Evidence:
+Roads, DEM, slope, hillshade, ruggedness, and OpenStreetMap layers.
+
+Geographic Relationship:
+Steep mountain terrain limits route options and channels movement through natural corridors such as Parleys Canyon and the Cottonwood canyon systems.
+
+Confidence:
+High
+
+NETWORK ANALYSIS OBSERVATIONS
+
+1. ROAD NETWORK LENGTH
+
+Observation:
+The Salt Lake County roads dataset contains approximately 8,266 km of mapped road centerlines.
+
+Evidence:
+Sum of the length_km field in Salt_Lake_County_Roads.
+
+Confidence:
+High
+
+2. AIRPORT → DOWNTOWN SHORTEST PATH
+
+Observation:
+The modeled shortest road-network path between Salt Lake City International Airport and downtown Salt Lake City is approximately 13.75 km.
+
+Evidence:
+QGIS Shortest Path (Point to Point) analysis using the Salt Lake County road network.
+
+Travel Cost:
+13,746.76 m
+
+Interpretation:
+The airport has relatively direct road-network access to the central urban core.
+
+Limitation:
+The result minimizes distance only. It does not account for traffic, travel time, road closures, or real-time conditions.
+
+Confidence:
+High

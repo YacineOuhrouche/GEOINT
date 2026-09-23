@@ -1,0 +1,82 @@
+CHOKEPOINTS, CORRIDORS & BARRIER CROSSINGS
+
+1. I-15 / CENTRAL SALT LAKE VALLEY CORRIDOR
+
+Observation:
+Interstate 15 forms the dominant north–south transportation corridor through Salt Lake County and 
+passes through the central urbanized valley.
+
+Geographic Context:
+The corridor occupies relatively flat terrain between the Wasatch Range and Oquirrh Mountains.
+
+Why Movement Concentrates Here:
+The broad valley floor provides the easiest continuous north–south route through the county while the surrounding mountain ranges strongly constrain alternative regional corridors.
+
+Alternatives:
+Parallel arterial roads and local road networks provide some redundancy, but major regional movement remains concentrated in the central valley corridor.
+
+Evidence:
+Road hierarchy, DEM, slope, population density, land use, and OpenStreetMap.
+
+Confidence:
+High
+
+2. PARLEYS CANYON / I-80 CORRIDOR
+
+Observation:
+Interstate 80 leaves the Salt Lake Valley through Parleys Canyon, creating one of the main east–west transportation corridors through the Wasatch Range.
+
+Geographic Context:
+The canyon cuts through steep and rugged mountain terrain east of Salt Lake City.
+
+Why Movement Concentrates Here:
+The canyon provides a comparatively accessible natural passage through terrain that is otherwise difficult to cross.
+
+Alternatives:
+Other mountain routes exist, but they are fewer, less direct, or more constrained than the Parleys Canyon corridor.
+
+Evidence:
+Roads, DEM, slope, hillshade, ruggedness, and OpenStreetMap.
+
+Confidence:
+High
+
+3. POINT OF THE MOUNTAIN / SOUTHERN VALLEY GATEWAY
+
+Observation:
+The southern end of the Salt Lake Valley narrows around the Point of the Mountain area, where major transportation routes pass between surrounding elevated terrain.
+
+Geographic Context:
+The corridor lies between the southern Wasatch foothills and nearby upland terrain, creating a narrower passage than the central valley.
+
+Why Movement Concentrates Here:
+North–south regional movement is funneled through this relatively narrow low-gradient corridor, including Interstate 15.
+
+Alternatives:
+Local roads provide some redundancy, but large-scale regional movement remains concentrated in the same general gateway.
+
+Evidence:
+Roads, DEM, slope, hillshade, population density, and OpenStreetMap.
+
+Confidence:
+High
+
+4. AIRPORT / WESTERN LOGISTICS GATEWAY
+
+Observation:
+Salt Lake City International Airport and nearby industrial/logistics areas form a major transportation and infrastructure concentration on the western side of the Salt Lake Valley.
+
+Geographic Context:
+The area occupies relatively flat terrain with direct access to major highways and rail infrastructure.
+
+Why Movement Concentrates Here:
+Airport access, highway connectivity, rail access, and available flat land combine to concentrate logistics and freight-related movement in this part of the valley.
+
+Alternatives:
+Other industrial areas exist elsewhere in the county, but few combine airport, highway, rail, and large flat parcels as strongly.
+
+Evidence:
+Airport, roads, railroads, land use, DEM, and OpenStreetMap.
+
+Confidence:
+High

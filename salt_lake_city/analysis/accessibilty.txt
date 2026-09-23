@@ -1,0 +1,21 @@
+ACCESSIBILITY OBSERVATIONS
+
+1. DOWNTOWN ACCESSIBILITY BY DISTANCE
+
+Observation:
+The areas closest to downtown Salt Lake City fall within the 0–5 km and 5–10 km accessibility zones, while the southern and western parts of Salt Lake County are progressively farther from the urban core.
+
+Evidence:
+Downtown accessibility rings, roads, municipalities, population density, and OpenStreetMap.
+
+Geographic Relationship:
+Downtown accessibility is highest in the central Salt Lake Valley and decreases toward the outer valley and mountainous edges of the county.
+
+Model Assumption:
+Accessibility is represented using straight-line distance from downtown rather than actual travel time.
+
+Limitation:
+The model does not account for road-network structure, congestion, terrain barriers, travel speed, or route availability.
+
+Confidence:
+Moderate
