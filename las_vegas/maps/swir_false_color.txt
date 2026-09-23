@@ -1,0 +1,24 @@
+SWIR FALSE-COLOR OBSERVATIONS
+
+Composite:
+B12 / B08 / B04
+
+1. The surrounding desert appears predominantly pink, salmon, and reddish.
+
+2. Vegetation appears bright green and contrasts strongly with dry surrounding surfaces.
+
+3. The central Las Vegas urban area appears mostly gray, dark gray, or blue-gray.
+
+4. Built-up areas can be distinguished more clearly from some surrounding desert surfaces than in natural color.
+
+5. Different desert and rock surfaces show noticeable variations in color and texture.
+
+6. Mountainous areas show strong internal variation, suggesting differences in surface material, moisture, illumination, or vegetation.
+
+7. Very dark areas are visible in locations associated with water, deep shadow, or other low-reflectance surfaces.
+
+8. Bright clouds and cloud-affected areas remain clearly visible.
+
+9. The SWIR composite reveals surface differences that are much less obvious in the natural-color image.
+
+10. Vegetated areas within the metropolitan region are easily separated from surrounding dry land.

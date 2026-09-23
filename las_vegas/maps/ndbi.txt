@@ -1,0 +1,23 @@
+NDBI OBSERVATIONS
+
+Index:
+NDBI = (B11 - B08) / (B11 + B08)
+
+Observed Range:
+Approximately -0.65 to 0.54
+
+1. Positive NDBI values occur across extensive portions of the surrounding desert.
+
+2. The Las Vegas urban area contains a mixture of positive, near-zero, and negative NDBI values.
+
+3. The urbanized area is not uniformly separable from surrounding bare desert using NDBI alone.
+
+4. Vegetated locations generally show lower NDBI values than dry surrounding surfaces.
+
+5. Water and some low-reflectance surfaces show strongly negative NDBI values.
+
+6. Desert terrain and built-up surfaces can produce similar NDBI responses.
+
+7. NDBI therefore provides useful spectral information but cannot independently classify urban development in this arid environment.
+
+8. Combining NDBI with natural color, false-color imagery, NDVI, shape, texture, and spatial context is necessary for more confident interpretation.

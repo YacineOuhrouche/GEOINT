@@ -1,0 +1,42 @@
+NATURAL-COLOR OBSERVATIONS — SENTINEL-2
+Acquisition: 2026-08-22
+
+1. A large, dense urbanized area occupies the center of the image.
+
+2. Residential areas show repeated geometric street and neighborhood patterns.
+
+3. The urban area is surrounded by extensive reddish-brown and tan terrain.
+
+4. The city occupies a broad valley bordered by mountainous and rugged terrain.
+
+5. A large airport is clearly visible in the southern-central portion of the urban area, with long straight runways and taxiways.
+
+6. Several major transportation corridors cross the metropolitan area and connect different parts of the city.
+
+7. Large bright white or light-colored rectangular features are concentrated in several industrial/commercial-looking areas.
+
+8. Small green patches are scattered throughout the city and contrast strongly with the surrounding dry landscape.
+
+9. Some green areas have regular shapes and appear associated with parks, golf courses, or landscaped areas.
+
+10. The boundary between dense urban development and surrounding undeveloped desert is very sharp in several locations.
+
+11. The surrounding desert displays different shades of brown, red, tan, and gray.
+
+12. Mountainous areas have rougher textures than the relatively smooth urban valley floor.
+
+13. Natural drainage patterns and branching channels are visible on some of the surrounding desert slopes.
+
+14. Several very bright exposed surfaces occur around the edges of the metropolitan area.
+
+15. Some darker patches occur both inside and outside the urbanized area.
+
+16. Scattered white clouds are visible mainly over the western mountainous part of the image.
+
+17. Dark areas adjacent to some clouds appear consistent with cloud shadows.
+
+18. The eastern side of the image contains especially strong variations in rock and soil color.
+
+19. Large rectangular and linear human-made patterns are visible outside the densest parts of the city.
+
+20. The central metropolitan area has a much finer and more complex texture than the surrounding desert.

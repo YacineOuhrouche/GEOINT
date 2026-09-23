@@ -1,0 +1,18 @@
+VEGETATION FALSE-COLOR OBSERVATIONS
+
+Composite:
+B08 / B04 / B03
+
+1. Vegetation appears bright red and is much easier to identify than in natural color.
+
+2. Red vegetation patches are scattered throughout the urban area rather than forming one continuous zone.
+
+3. Several large, regularly shaped red areas occur within residential and developed parts of Las Vegas.
+
+4. The surrounding desert generally shows little red response compared with irrigated parts of the city.
+
+5. Linear and irregular vegetation patterns are visible along some drainage corridors and developed areas.
+
+6. Urban surfaces remain mostly gray or muted, producing strong contrast with vegetation.
+
+7. The false-color composite distinguishes vegetation from the surrounding arid landscape more clearly than the natural-color image.

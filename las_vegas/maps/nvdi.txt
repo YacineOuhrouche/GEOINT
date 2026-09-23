@@ -1,0 +1,23 @@
+NDVI OBSERVATIONS
+
+Index:
+NDVI = (B08 - B04) / (B08 + B04)
+
+Observed Range:
+Approximately -0.50 to 0.69
+
+1. Most of the Las Vegas metropolitan area has relatively low NDVI values.
+
+2. Distinct high-NDVI patches occur throughout the urban area.
+
+3. These higher-NDVI areas are concentrated in regularly shaped landscaped areas, parks, golf courses, and other irrigated locations.
+
+4. The surrounding desert generally has low NDVI values.
+
+5. A clear linear high-NDVI feature is visible east of the metropolitan area.
+
+6. Some mountainous areas show moderate vegetation response compared with the surrounding desert.
+
+7. NDVI distinguishes vegetated surfaces much more clearly than the natural-color image.
+
+8. The strongest vegetation signals are localized rather than continuous across the metropolitan region.
